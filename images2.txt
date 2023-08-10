@@ -1,0 +1,22 @@
+[
+    {
+        "src": "image5.jpg", 
+        "alt": "Image 5", 
+        "duration": 10
+    },
+    {
+        "src": "image6.jpg", 
+        "alt": "Image 6", 
+        "duration": 10
+    },
+    {
+        "src": "image7.jpg", 
+        "alt": "Image 7", 
+        "duration": 10
+    },
+    {
+        "src": "image8.jpg", 
+        "alt": "Image 8", 
+        "duration": 10
+    }
+]
